@@ -36,9 +36,9 @@ if __name__ =='__main__':
 '''
 import smtplib
 
-sender_email = "xxxxx@gmail.com"
+sender_email = "zxin1007@gmail.com"
 password= input(str('enter your password'))
-rec_email="xxxxxx@gmail.com"
+rec_email="zhuangzijinhui@gmail.com"
 messege = "In Stock Notify"
 
 server = smtplib.SMTP("smtp.gmail.com", 587)
